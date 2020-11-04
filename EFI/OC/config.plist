@@ -933,6 +933,7 @@
 		<key>Drivers</key>
 		<array>
 			<string>HFSPlus.efi</string>
+			<string>NTFS.efi</string>
 			<string>OpenCanopy.efi</string>
 			<string>OpenRuntime.efi</string>
 			<string>OpenUsbKbDxe.efi</string>
